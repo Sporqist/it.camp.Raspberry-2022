@@ -60,3 +60,8 @@ sudo reboot
 | DIN (Data)        | MOSI (GPIO 10) |
 | CS  (Chip Select) | CE0  (GPIO 8)  |
 | CLK (Clock)       | SCLK (GPIO 11) |
+
+![PI](https://user-images.githubusercontent.com/80818611/144997724-e15aa6fe-f77b-44f5-8cd0-4553b5ba13c6.jpg)
+![Matrix_anschluss](https://user-images.githubusercontent.com/80818611/144997676-9aa1c483-1668-4541-8466-bb97320bbaa5.jpg)
+![Kabel](https://user-images.githubusercontent.com/80818611/144997761-23596f07-606f-45a9-8386-3f8f6f309673.jpg)
+![LED_Matrix](https://user-images.githubusercontent.com/80818611/144997745-55444499-e720-4346-8403-54b36160700a.jpg)
