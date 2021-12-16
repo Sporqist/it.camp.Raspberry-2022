@@ -61,6 +61,6 @@ sudo reboot
 | CS  (Chip Select) | CE0  (GPIO 8)  |
 | CLK (Clock)       | SCLK (GPIO 11) |
 
-<img src="https://user-images.githubusercontent.com/80818611/144997724-e15aa6fe-f77b-44f5-8cd0-4553b5ba13c6.jpg" alt="Raspberry Pi und GPIO Breakout auf einem Breadboard" width="300"/> <img src="https://user-images.githubusercontent.com/80818611/144997676-9aa1c483-1668-4541-8466-bb97320bbaa5.jpg" alt="LED-Matrix Pins" width="300"/>
-
-<img src="https://user-images.githubusercontent.com/80818611/144997745-55444499-e720-4346-8403-54b36160700a.jpg" alt="Blinkende LED-Matrix" width="300"/> <img src="https://user-images.githubusercontent.com/80818611/144997761-23596f07-606f-45a9-8386-3f8f6f309673.jpg" alt="GPIO Breakout Board mit angeschlossenere LDE-Matrix" width="300"/>
+![Raspberry Pi und GPIO Breakout auf einem Breadboard](https://user-images.githubusercontent.com/80818611/144997724-e15aa6fe-f77b-44f5-8cd0-4553b5ba13c6.jpg)|![LED-Matrix Pins](https://user-images.githubusercontent.com/80818611/144997676-9aa1c483-1668-4541-8466-bb97320bbaa5.jpg)
+---|---
+![Blinkende LED-Matrix](https://user-images.githubusercontent.com/80818611/144997745-55444499-e720-4346-8403-54b36160700a.jpg)|![GPIO Breakout Board mit angeschlossenere LDE-Matrix](https://user-images.githubusercontent.com/80818611/144997761-23596f07-606f-45a9-8386-3f8f6f309673.jpg)
